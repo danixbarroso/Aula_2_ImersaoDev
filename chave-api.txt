@@ -1,0 +1,8 @@
+AIzaSyBCJUnk6W1Na09fnbP4UfkF513GaPvCyj0
+
+// Mongo login and password
+danieloliveira
+HgfnedhhEnncjsdn0983nSN
+
+
+mongodb+srv://danieloliveira:<db_password>@cluster0.gskxt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
